@@ -1,3 +1,13 @@
+# 
+Spotify Data Analysis and Exploration
+## 
+by Yu Wang by, Wuyi Zhang, and Tapasvi Bansal
+###
+This repository is for the course INFX 547 A: Social Media Data Mining and Analysis.
+
+Our work primarily focus on conducting reserach on music data, raising questions on them, and answer those questions via data collection, data analysis, and data visualization based on open Spotify data.
+
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
