@@ -1,6 +1,6 @@
 # Spotify Data Analysis and Exploration
 
-This repository is for the course INFX 547 A: Social Media Data Mining and Analysis.
+This is the final project repository for the course INFX 547 A: Social Media Data Mining and Analysis.
 
 Our work primarily focus on conducting reserach on music data, raising questions on them, and answer those questions via data collection, data analysis, and data visualization based on open Spotify data.
 
