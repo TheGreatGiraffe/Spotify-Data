@@ -1,6 +1,6 @@
 # Spotify Data Analysis and Exploration
 
-### Contributor: Yu Wang, Wuyi Zhang, and Tapasvi Bansal
+Contributor: Yu Wang, Wuyi Zhang, and Tapasvi Bansal
 
 This repository is for the course INFX 547 A: Social Media Data Mining and Analysis.
 
