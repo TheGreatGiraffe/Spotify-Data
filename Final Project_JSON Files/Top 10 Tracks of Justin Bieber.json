@@ -1,0 +1,834 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 233720,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516761"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/50kpGaPAhYJ3sGmk6vplg0",
+            "id": "50kpGaPAhYJ3sGmk6vplg0",
+            "name": "Love Yourself",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/56dc3be142d25a505ef6c1acb5f512c4e52b3d01?cid=null",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 200786,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516760"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/09CtPGIpYB4BrO8qb1RGsF",
+            "id": "09CtPGIpYB4BrO8qb1RGsF",
+            "name": "Sorry",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a744ca0248dda247a682b6703b62c36a9127bbb?cid=null",
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 205680,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71511919"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4B0JvthVoAAuygILe3n4Bs",
+            "id": "4B0JvthVoAAuygILe3n4Bs",
+            "name": "What Do You Mean?",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/13da79dc4803f65092d583f6e3bdf1fc4d8344e5?cid=null",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 208120,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516762"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
+            },
+            "href": "https://api.spotify.com/v1/tracks/61uyGDPJ06MkxJtHgPmuyO",
+            "id": "61uyGDPJ06MkxJtHgPmuyO",
+            "name": "Company",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/d209d5eee0066c25bcb5122e45baff7492d3ec20?cid=null",
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:61uyGDPJ06MkxJtHgPmuyO"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 210160,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516767"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2IjyFRCRn8x1bEquOM3vxg",
+            "id": "2IjyFRCRn8x1bEquOM3vxg",
+            "name": "Purpose",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ecdde0f24dc92e2f6a8e0b1b53d23688b92c20a?cid=null",
+            "track_number": 13,
+            "type": "track",
+            "uri": "spotify:track:2IjyFRCRn8x1bEquOM3vxg"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 199946,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516758"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0SNIAtRCPVVLoGEPcuHSIc"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0SNIAtRCPVVLoGEPcuHSIc",
+            "id": "0SNIAtRCPVVLoGEPcuHSIc",
+            "name": "I'll Show You",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/3952f728e4b26e446e0a453424cd82f69f9f80c8?cid=null",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:0SNIAtRCPVVLoGEPcuHSIc"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 203800,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516855"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5YNf9s8WE3iF33YaFNrgpa",
+            "id": "5YNf9s8WE3iF33YaFNrgpa",
+            "name": "What Do You Mean? - Acoustic",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a0d04a0d1f095a4101de7b1ad8008e39f26c115?cid=null",
+            "track_number": 19,
+            "type": "track",
+            "uri": "spotify:track:5YNf9s8WE3iF33YaFNrgpa"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+                    "id": "26VFTg2z8YR0cCuwLzESi2",
+                    "name": "Halsey",
+                    "type": "artist",
+                    "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 244906,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516765"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7E390nZTMqEbrNC1TmHd42"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7E390nZTMqEbrNC1TmHd42",
+            "id": "7E390nZTMqEbrNC1TmHd42",
+            "name": "The Feeling",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/4bffe903f677db90c3fdf6e90e52529dfd53d8a8?cid=null",
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:7E390nZTMqEbrNC1TmHd42"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6eknhm96vRigjwfcl49xKb"
+                },
+                "href": "https://api.spotify.com/v1/albums/6eknhm96vRigjwfcl49xKb",
+                "id": "6eknhm96vRigjwfcl49xKb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/a17cf84e7a0512a31611e39744be383e61b8e9ed",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/085e736bb2fb18937e34351cfec550451c84173b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/1ee531ede2a0f55ad3bd40981f2f35f92d9e3b10",
+                        "width": 64
+                    }
+                ],
+                "name": "Believe",
+                "type": "album",
+                "uri": "spotify:album:6eknhm96vRigjwfcl49xKb"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 171333,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71202650"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0171XsIM2xyeXRr6wsugEI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0171XsIM2xyeXRr6wsugEI",
+            "id": "0171XsIM2xyeXRr6wsugEI",
+            "name": "Boyfriend",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/6dafd0ae17a84a61cb70c592540d457d9485e2f8?cid=null",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:0171XsIM2xyeXRr6wsugEI"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                        "id": "1uNFoZAHBGtllmzznpCI3s",
+                        "name": "Justin Bieber",
+                        "type": "artist",
+                        "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                    }
+                ],
+                "available_markets": [
+                    "CA",
+                    "MX",
+                    "US"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Fr2rQkZ383FcMqFyT7yPr",
+                "id": "6Fr2rQkZ383FcMqFyT7yPr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/da1e8958b6260e832660d0c5f3c80e9569c388c8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/478dbfd0e579dee7392707b9a6848faff0cdfefd",
+                        "width": 64
+                    }
+                ],
+                "name": "Purpose (Deluxe)",
+                "type": "album",
+                "uri": "spotify:album:6Fr2rQkZ383FcMqFyT7yPr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                    "id": "1uNFoZAHBGtllmzznpCI3s",
+                    "name": "Justin Bieber",
+                    "type": "artist",
+                    "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                    "id": "0c173mlxpT3dSFRgMO8XPh",
+                    "name": "Big Sean",
+                    "type": "artist",
+                    "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                }
+            ],
+            "available_markets": [
+                "CA",
+                "MX",
+                "US"
+            ],
+            "disc_number": 1,
+            "duration_ms": 286853,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71516763"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/23UV8pJEvRnAZd6ZAXBC0H"
+            },
+            "href": "https://api.spotify.com/v1/tracks/23UV8pJEvRnAZd6ZAXBC0H",
+            "id": "23UV8pJEvRnAZd6ZAXBC0H",
+            "name": "No Pressure",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/40a01ad5297099ba30d91b7af4bea37f75504736?cid=null",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:23UV8pJEvRnAZd6ZAXBC0H"
+        }
+    ]
+}

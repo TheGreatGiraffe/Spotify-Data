@@ -1,0 +1,214 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+            },
+            "followers": {
+                "href": null,
+                "total": 9978821
+            },
+            "genres": [
+                "canadian pop",
+                "hip hop",
+                "pop rap",
+                "rap"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/cb080366dc8af1fe4dc90c4b9959794794884c66",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/6bd672a0f33705eda4b543c304c21a152f393291",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/085ae2e76f402468fe9982851b51cf876e4f20fe",
+                    "width": 160
+                }
+            ],
+            "name": "Drake",
+            "popularity": 100,
+            "type": "artist",
+            "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            },
+            "followers": {
+                "href": null,
+                "total": 9363056
+            },
+            "genres": [
+                "canadian pop",
+                "dance pop",
+                "pop",
+                "pop christmas",
+                "post-teen pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "images": [
+                {
+                    "height": 1000,
+                    "url": "https://i.scdn.co/image/5c3cf2ee3494e2da71dcf26303202ec491b26213",
+                    "width": 1000
+                },
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/2e451efa87b706098553583cffac821b7ebac450",
+                    "width": 640
+                },
+                {
+                    "height": 200,
+                    "url": "https://i.scdn.co/image/ca283ddea2afc65c15d802d45ee3d3fd255ab4e2",
+                    "width": 200
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ce41eb4beaad8d07fd55a68aba16b27e341a2e4f",
+                    "width": 64
+                }
+            ],
+            "name": "Justin Bieber",
+            "popularity": 93,
+            "type": "artist",
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "followers": {
+                "href": null,
+                "total": 10293820
+            },
+            "genres": [
+                "dance pop",
+                "pop",
+                "pop christmas",
+                "r&b",
+                "soul christmas",
+                "urban contemporary"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "images": [
+                {
+                    "height": 667,
+                    "url": "https://i.scdn.co/image/7a14a83633fc6c00c3977d134397b7235f888cdf",
+                    "width": 1000
+                },
+                {
+                    "height": 427,
+                    "url": "https://i.scdn.co/image/ca67ea77cd79d6909c966870ae6f53297baba0bf",
+                    "width": 640
+                },
+                {
+                    "height": 133,
+                    "url": "https://i.scdn.co/image/5376e8a81d2849ed25cecc9b55789f91c7cb4269",
+                    "width": 200
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/2bfed337f30cb4aedc26c39fc10fcce66a925b5b",
+                    "width": 64
+                }
+            ],
+            "name": "Rihanna",
+            "popularity": 92,
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "followers": {
+                "href": null,
+                "total": 4062418
+            },
+            "genres": [
+                "pop punk"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "images": [
+                {
+                    "height": 667,
+                    "url": "https://i.scdn.co/image/b396c3f5ddf29a8f49337ae7f8a2acdbc3561cc7",
+                    "width": 1000
+                },
+                {
+                    "height": 427,
+                    "url": "https://i.scdn.co/image/01f608a46e8ca7984e1121e334a089fef46777c7",
+                    "width": 640
+                },
+                {
+                    "height": 133,
+                    "url": "https://i.scdn.co/image/57d72c0c06f5d93fbba622a0f47c9ed6ce5a61d9",
+                    "width": 199
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/11911591838f66ef585cfe5e3dee452e3e16b3d9",
+                    "width": 64
+                }
+            ],
+            "name": "Twenty One Pilots",
+            "popularity": 86,
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            },
+            "followers": {
+                "href": null,
+                "total": 4595409
+            },
+            "genres": [
+                "pop",
+                "pop christmas",
+                "pop rap",
+                "rap"
+            ],
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+            "id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "images": [
+                {
+                    "height": 666,
+                    "url": "https://i.scdn.co/image/b86a3dbd77a8353647bff195d310d5eb1bd80af6",
+                    "width": 999
+                },
+                {
+                    "height": 426,
+                    "url": "https://i.scdn.co/image/37ebfb3df8966b60e114cab3b5ebecea705347b7",
+                    "width": 639
+                },
+                {
+                    "height": 133,
+                    "url": "https://i.scdn.co/image/c91e8b8341db71d9700d4635bbd3b0860c452e4d",
+                    "width": 200
+                },
+                {
+                    "height": 43,
+                    "url": "https://i.scdn.co/image/27e073a7c285d68b60c1e2c8f1ab8bd2b44d6f74",
+                    "width": 64
+                }
+            ],
+            "name": "Kanye West",
+            "popularity": 90,
+            "type": "artist",
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        }
+    ]
+}
