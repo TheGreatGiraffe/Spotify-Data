@@ -7,7 +7,9 @@ Our work primarily involved conducting reserach on music data, raising questions
 Contributor: Yu Wang, Wuyi Zhang, and Tapasvi Bansal
 
 
-### We adopted a web template and modified it based on our needs. Here is the reference information.
+#### We adopted a web template and modified it based on our needs.
+
+Here is the reference information.
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
