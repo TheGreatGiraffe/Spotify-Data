@@ -2,14 +2,12 @@
 
 This is the final project repository for the course INFX 547 A: Social Media Data Mining and Analysis.
 
-Our work primarily involved conducting reserach on music data, raising questions on them, and answering those questions via data collection, analysis, and visualization based on self-collected Spotify data.
+Our work primarily involved conducting research on music data, raising questions about them, and answering those questions via data collection, analysis, and visualization based on self-collected Spotify data.
 
 Contributor: Yu Wang, Wuyi Zhang, and Tapasvi Bansal
 
 
-#### We adopted a web template and modified it based on our needs.
-
-Here is the reference information.
+#### We adopted a web template and modified it based on our needs. Here is the reference information
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
